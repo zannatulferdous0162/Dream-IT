@@ -13,6 +13,13 @@
     max-width: 1440px;
     margin: 0 auto;
 }
+
+.text-lime{
+    color: #bae017;
+}
+.active-link :hover{
+    color: white;
+}
 .color-lime{
     background-color:#bae017;
     color: black;
@@ -24,7 +31,7 @@ button:hover{
 }
 
 /*  */
-.nav-section {
+.banner{
     background-image: url('../images/bg.png');
     width: 100%;
     vertical-align: middle;
@@ -32,7 +39,6 @@ button:hover{
     
 }
 
-.img-container img{
-  
-    width: 30px;
-}
+
+
+
